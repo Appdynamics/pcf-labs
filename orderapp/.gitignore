@@ -4,7 +4,6 @@
 .factorypath
 bin/
 .settings/
-target/
 build/
 *~
 /.DS_Store
